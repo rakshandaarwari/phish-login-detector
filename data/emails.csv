@@ -1,0 +1,3 @@
+id,label,subject,body,from_addr,reply_to
+1,1,"Your account will be locked","Click http://192.168.0.1/verify","support@bank.com","security@bank.com"
+2,0,"Team meeting","See attached agenda","hr@company.com","hr@company.com"
